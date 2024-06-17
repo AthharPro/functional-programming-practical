@@ -1,0 +1,51 @@
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@62e934bd]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2e500508]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@62e934bd]
+2024.06.17 23:04:14 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Jun 17, 2024 11:04:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Jun 17, 2024 11:04:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2024.06.17 23:04:16 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_1\1.scala
+2024.06.17 23:04:16 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_1\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.17 23:04:24 INFO  Running List(C:\Users\Asus\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.06.17 23:04:24 INFO  Attempting to connect to the build server...
+2024.06.17 23:04:24 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.06.17 23:04:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.17 23:04:26 INFO  time: Connected to build server in 2.58s
+2024.06.17 23:04:26 INFO  Connected to Build server: scala-cli v1.3.2
+2024.06.17 23:04:27 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.06.17 23:04:27 INFO  time: Imported build in 1.22s
+2024.06.17 23:04:56 INFO  time: indexed workspace in 28s
+2024.06.17 23:05:28 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.06.17 23:05:28 INFO  time: compiled functional-programming-practical_d189e5655b in 0.44s
+2024.06.17 23:05:46 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_1\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.17 23:05:46 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.06.17 23:05:46 INFO  time: compiled functional-programming-practical_d189e5655b in 93ms
+2024.06.17 23:05:48 INFO  time: indexed workspace in 2.2s
+2024.06.17 23:05:53 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.06.17 23:05:53 INFO  time: compiled functional-programming-practical_d189e5655b in 0.31s
+Jun 17, 2024 11:06:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 53
+2024.06.17 23:06:21 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_1\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.17 23:06:21 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.06.17 23:06:23 INFO  time: indexed workspace in 1.9s
+2024.06.17 23:06:27 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_1\4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.17 23:06:27 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.06.17 23:06:27 INFO  time: compiled functional-programming-practical_d189e5655b in 67ms
+2024.06.17 23:06:29 INFO  time: indexed workspace in 1.87s
+2024.06.17 23:06:36 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_1\5.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.06.17 23:06:36 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.06.17 23:06:38 INFO  time: indexed workspace in 1.87s
+2024.06.17 23:07:05 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.06.17 23:07:05 INFO  time: compiled functional-programming-practical_d189e5655b in 0.56s
+2024.06.17 23:07:15 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.06.17 23:07:15 INFO  time: compiled functional-programming-practical_d189e5655b in 0.35s
+2024.06.17 23:07:32 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.06.17 23:07:32 INFO  time: compiled functional-programming-practical_d189e5655b in 0.17s
+Jun 17, 2024 11:17:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 154
+Jun 17, 2024 11:17:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 156
