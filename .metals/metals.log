@@ -49,3 +49,67 @@ Jun 17, 2024 11:17:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancella
 WARNING: Unmatched cancel notification for request id 154
 Jun 17, 2024 11:17:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 156
+2024.06.17 23:26:50 INFO  Shutting down server
+2024.06.17 23:26:50 INFO  shutting down Metals
+2024.06.17 23:26:50 INFO  Shut down connection with build server.
+2024.06.17 23:26:50 INFO  Exiting server
+2024.06.17 23:28:56 INFO  Started: Metals version 1.3.1 in folders 'D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical' for client Visual Studio Code 1.90.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@6d3d8289]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@6e2cb171]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@6d3d8289]
+2024.06.17 23:28:56 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.06.17 23:28:57 INFO  Attempting to connect to the build server...
+2024.06.17 23:28:57 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.06.17 23:28:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.17 23:29:00 INFO  time: Connected to build server in 2.94s
+2024.06.17 23:29:00 INFO  Connected to Build server: scala-cli v1.3.2
+2024.06.17 23:29:03 INFO  time: indexed workspace in 3.35s
+2024.06.17 23:31:19 INFO  Shutting down server
+2024.06.17 23:31:19 INFO  shutting down Metals
+2024.06.17 23:31:19 INFO  Shut down connection with build server.
+2024.06.17 23:31:19 INFO  Exiting server
+2024.06.18 08:06:52 INFO  Started: Metals version 1.3.1 in folders 'D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical' for client Visual Studio Code 1.90.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@55c239fa]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@3121bd69]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@55c239fa]
+2024.06.18 08:06:52 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Jun 18, 2024 8:06:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Jun 18, 2024 8:06:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.06.18 08:06:53 INFO  Attempting to connect to the build server...
+2024.06.18 08:06:53 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.06.18 08:06:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.06.18 08:06:59 INFO  BSP server: Starting compilation server
+2024.06.18 08:07:15 INFO  time: Connected to build server in 21s
+2024.06.18 08:07:15 INFO  Connected to Build server: scala-cli v1.3.2
+2024.06.18 08:07:15 INFO  time: Imported build in 0.3s
+2024.06.18 08:07:33 INFO  time: indexed workspace in 17s
+Jun 18, 2024 8:43:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 212
+Jun 18, 2024 8:44:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 243
+Jun 18, 2024 8:44:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 245
+Jun 18, 2024 8:44:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 246
+Jun 18, 2024 8:44:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 247
+2024.06.18 08:46:29 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.06.18 08:46:32 INFO  time: compiled functional-programming-practical_d189e5655b in 3.74s
+Jun 18, 2024 8:46:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jun 18, 2024 8:58:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 314
+2024.06.18 08:58:37 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.06.18 08:58:37 INFO  time: compiled functional-programming-practical_d189e5655b in 0.62s
+2024.06.18 08:58:43 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.06.18 08:58:43 INFO  time: compiled functional-programming-practical_d189e5655b in 0.49s
+2024.06.18 09:01:47 INFO  Shutting down server
+2024.06.18 09:01:47 INFO  shutting down Metals
+2024.06.18 09:01:47 INFO  Shut down connection with build server.
+2024.06.18 09:01:47 INFO  Exiting server
