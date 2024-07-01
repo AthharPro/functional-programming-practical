@@ -21,8 +21,5 @@ object prac2_2 {
       println(c)
       a += 1
 
-
-
-
    }
 }
