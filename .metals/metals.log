@@ -2014,3 +2014,929 @@ INFO: Unsupported notification method: $/setTrace
 2024.07.01 18:32:11 INFO  shutting down Metals
 2024.07.01 18:32:11 INFO  Shut down connection with build server.
 2024.07.01 18:32:11 INFO  Exiting server
+2024.07.02 09:33:34 INFO  Started: Metals version 1.3.2 in folders 'D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@530249d1]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@59ae3bce]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@530249d1]
+2024.07.02 09:33:35 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.02 09:33:37 INFO  Attempting to connect to the build server...
+2024.07.02 09:33:37 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.07.02 09:33:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.02 09:33:42 INFO  BSP server: Starting compilation server
+2024.07.02 09:33:54 INFO  time: Connected to build server in 16s
+2024.07.02 09:33:54 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.02 09:33:54 INFO  time: Imported build in 0.13s
+2024.07.02 09:33:57 INFO  time: indexed workspace in 3.5s
+2024.07.02 09:35:52 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.02 09:35:56 INFO  time: compiled functional-programming-practical_d189e5655b in 3.62s
+Jul 02, 2024 9:37:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 62
+2024.07.02 09:44:23 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.02 09:44:26 INFO  time: compiled functional-programming-practical_d189e5655b in 2.54s
+2024.07.02 09:44:26 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_3\2.scala
+2024.07.02 09:46:06 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.02 09:46:06 INFO  time: compiled functional-programming-practical_d189e5655b in 0.76s
+Jul 02, 2024 9:46:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 268
+2024.07.02 09:47:12 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.02 09:47:13 INFO  time: compiled functional-programming-practical_d189e5655b in 1.38s
+2024.07.02 09:47:13 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.02 09:47:13 INFO  time: compiled functional-programming-practical_d189e5655b in 0.62s
+2024.07.02 09:47:38 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.02 09:47:38 INFO  time: compiled functional-programming-practical_d189e5655b in 0.63s
+Jul 02, 2024 9:47:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 359
+Jul 02, 2024 9:47:51 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 02, 2024 9:48:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 368
+2024.07.02 09:58:13 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_3\2.scala
+Jul 02, 2024 9:58:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 446
+Jul 02, 2024 10:07:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 470
+2024.07.02 10:07:28 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_3\2.scala
+Jul 02, 2024 10:10:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 519
+Jul 02, 2024 10:10:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 533
+Jul 02, 2024 10:16:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 563
+2024.07.02 10:16:28 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_3\2.scala
+Jul 02, 2024 10:16:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 591
+Jul 02, 2024 10:17:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 601
+2024.07.02 10:30:04 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_3\2.scala
+Jul 02, 2024 10:30:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 727
+2024.07.02 10:33:33 INFO  Shutting down server
+2024.07.02 10:33:33 INFO  shutting down Metals
+2024.07.02 10:33:33 INFO  Shut down connection with build server.
+2024.07.02 10:33:33 INFO  Exiting server
+2024.07.08 09:10:46 INFO  Started: Metals version 1.3.2 in folders 'D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@5c46529]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2e4e1d84]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@5c46529]
+2024.07.08 09:10:46 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.08 09:10:48 INFO  Attempting to connect to the build server...
+2024.07.08 09:10:48 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.07.08 09:10:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.08 09:10:51 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.08 09:10:51 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.08 09:10:51 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.08 09:10:53 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.08 09:10:56 INFO  BSP server: Starting compilation server
+2024.07.08 09:11:05 INFO  time: Connected to build server in 16s
+2024.07.08 09:11:05 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.08 09:11:05 INFO  time: Imported build in 0.11s
+2024.07.08 09:11:39 INFO  time: indexed workspace in 34s
+2024.07.08 09:14:17 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 09:14:18 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:14:19 INFO  time: indexed workspace in 1.2s
+2024.07.08 09:16:47 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:16:47 INFO  time: compiled functional-programming-practical_d189e5655b in 0.92s
+2024.07.08 09:16:51 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:16:51 INFO  time: compiled functional-programming-practical_d189e5655b in 0.53s
+2024.07.08 09:16:52 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:16:52 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:16:52 INFO  time: compiled functional-programming-practical_d189e5655b in 0.29s
+2024.07.08 09:16:54 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:16:54 INFO  time: compiled functional-programming-practical_d189e5655b in 0.21s
+2024.07.08 09:16:56 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:16:56 INFO  time: compiled functional-programming-practical_d189e5655b in 0.17s
+Jul 08, 2024 9:16:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 103
+2024.07.08 09:16:59 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:16:59 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.08 09:17:00 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:17:00 INFO  time: compiled functional-programming-practical_d189e5655b in 86ms
+2024.07.08 09:17:01 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:17:01 INFO  time: compiled functional-programming-practical_d189e5655b in 70ms
+2024.07.08 09:17:05 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:17:05 INFO  time: compiled functional-programming-practical_d189e5655b in 0.32s
+2024.07.08 09:17:07 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:17:07 INFO  time: compiled functional-programming-practical_d189e5655b in 0.23s
+2024.07.08 09:17:54 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:17:54 INFO  time: compiled functional-programming-practical_d189e5655b in 0.51s
+2024.07.08 09:17:57 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:17:57 INFO  time: compiled functional-programming-practical_d189e5655b in 0.39s
+2024.07.08 09:17:58 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:17:59 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:00 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:01 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:18:01 INFO  time: compiled functional-programming-practical_d189e5655b in 68ms
+2024.07.08 09:18:02 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:20 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:22 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:23 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:18:23 INFO  time: compiled functional-programming-practical_d189e5655b in 77ms
+2024.07.08 09:18:24 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:27 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:28 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:29 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:30 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:18:30 INFO  time: compiled functional-programming-practical_d189e5655b in 0.11s
+2024.07.08 09:18:30 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:31 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:32 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:18:32 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.08 09:18:32 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:33 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:36 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:37 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:38 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:38 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:18:39 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:18:39 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:18:40 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:19:39 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:19:41 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:19:42 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:19:42 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:19:43 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:19:44 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:19:44 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:19:45 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:19:46 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:19:46 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:19:46 INFO  time: compiled functional-programming-practical_d189e5655b in 0.3s
+2024.07.08 09:19:46 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:19:47 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.08 09:19:52 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:19:52 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:19:55 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:19:55 INFO  time: compiled functional-programming-practical_d189e5655b in 0.76s
+2024.07.08 09:19:58 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:19:58 INFO  time: compiled functional-programming-practical_d189e5655b in 0.34s
+2024.07.08 09:20:19 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:20:19 INFO  time: compiled functional-programming-practical_d189e5655b in 0.23s
+Jul 08, 2024 9:20:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 408
+2024.07.08 09:20:24 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:20:24 INFO  time: compiled functional-programming-practical_d189e5655b in 0.22s
+2024.07.08 09:20:26 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:20:26 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.08 09:20:30 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:20:30 INFO  time: compiled functional-programming-practical_d189e5655b in 0.23s
+2024.07.08 09:20:38 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:20:38 INFO  time: compiled functional-programming-practical_d189e5655b in 0.2s
+2024.07.08 09:20:41 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:20:41 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.08 09:20:44 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:20:44 INFO  time: compiled functional-programming-practical_d189e5655b in 0.2s
+2024.07.08 09:20:46 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:20:46 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.08 09:21:07 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:21:07 INFO  time: compiled functional-programming-practical_d189e5655b in 0.22s
+2024.07.08 09:21:14 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:21:14 INFO  time: compiled functional-programming-practical_d189e5655b in 0.28s
+2024.07.08 09:22:59 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:22:59 INFO  time: compiled functional-programming-practical_d189e5655b in 0.25s
+2024.07.08 09:23:01 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:23:01 INFO  time: compiled functional-programming-practical_d189e5655b in 0.23s
+2024.07.08 09:23:03 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:23:03 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+2024.07.08 09:23:06 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:23:06 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+Jul 08, 2024 9:23:26 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 683
+2024.07.08 09:23:27 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:23:27 INFO  time: compiled functional-programming-practical_d189e5655b in 0.21s
+Jul 08, 2024 9:23:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 697
+2024.07.08 09:23:45 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:23:45 INFO  time: compiled functional-programming-practical_d189e5655b in 0.16s
+2024.07.08 09:23:49 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:23:49 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.08 09:23:51 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:23:51 INFO  time: compiled functional-programming-practical_d189e5655b in 0.21s
+2024.07.08 09:23:53 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:23:53 INFO  time: compiled functional-programming-practical_d189e5655b in 97ms
+2024.07.08 09:23:53 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+Jul 08, 2024 9:23:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 742
+2024.07.08 09:23:54 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:23:54 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:23:54 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:23:56 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:23:56 INFO  time: compiled functional-programming-practical_d189e5655b in 0.11s
+2024.07.08 09:23:56 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:23:57 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:23:57 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:23:57 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:23:58 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:23:59 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:23:59 INFO  time: compiled functional-programming-practical_d189e5655b in 87ms
+Jul 08, 2024 9:24:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 792
+2024.07.08 09:24:00 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:01 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:24:01 INFO  time: compiled functional-programming-practical_d189e5655b in 84ms
+2024.07.08 09:24:01 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:36 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:39 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:45 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:46 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:24:46 INFO  time: compiled functional-programming-practical_d189e5655b in 0.11s
+2024.07.08 09:24:46 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:46 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:48 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:24:48 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:24:48 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:49 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:24:49 INFO  time: compiled functional-programming-practical_d189e5655b in 98ms
+2024.07.08 09:24:49 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:51 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:52 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:53 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:54 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:24:54 INFO  time: compiled functional-programming-practical_d189e5655b in 0.11s
+2024.07.08 09:24:54 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:55 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:55 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:56 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:24:56 INFO  time: compiled functional-programming-practical_d189e5655b in 80ms
+2024.07.08 09:24:57 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:57 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:58 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:59 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:24:59 INFO  time: compiled functional-programming-practical_d189e5655b in 84ms
+2024.07.08 09:24:59 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:24:59 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:00 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:01 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:25:01 INFO  time: compiled functional-programming-practical_d189e5655b in 83ms
+2024.07.08 09:25:02 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:03 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:25:03 INFO  time: compiled functional-programming-practical_d189e5655b in 89ms
+2024.07.08 09:25:03 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:10 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:11 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:12 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:25:12 INFO  time: compiled functional-programming-practical_d189e5655b in 97ms
+2024.07.08 09:25:12 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:12 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:13 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:14 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:25:14 INFO  time: compiled functional-programming-practical_d189e5655b in 90ms
+2024.07.08 09:25:15 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:20 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:21 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:22 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:25:22 INFO  time: compiled functional-programming-practical_d189e5655b in 85ms
+2024.07.08 09:25:22 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:27 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:28 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:25:28 INFO  time: compiled functional-programming-practical_d189e5655b in 78ms
+2024.07.08 09:25:29 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:30 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:31 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+Jul 08, 2024 9:25:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 989
+2024.07.08 09:25:32 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:33 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:25:33 INFO  time: compiled functional-programming-practical_d189e5655b in 98ms
+2024.07.08 09:25:34 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:35 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:25:35 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:35 INFO  time: compiled functional-programming-practical_d189e5655b in 99ms
+2024.07.08 09:25:35 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 09:25:36 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:25:36 INFO  time: compiled functional-programming-practical_d189e5655b in 0.21s
+2024.07.08 09:25:37 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:25:37 INFO  time: compiled functional-programming-practical_d189e5655b in 0.28s
+2024.07.08 09:26:42 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:26:42 INFO  time: compiled functional-programming-practical_d189e5655b in 0.37s
+2024.07.08 09:26:48 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:26:48 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.08 09:26:49 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:26:49 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.08 09:26:54 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:26:54 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.08 09:26:58 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:26:58 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 09:27:02 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:02 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+2024.07.08 09:27:16 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:16 INFO  time: compiled functional-programming-practical_d189e5655b in 0.2s
+2024.07.08 09:27:19 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:19 INFO  time: compiled functional-programming-practical_d189e5655b in 0.16s
+Jul 08, 2024 9:27:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1296
+2024.07.08 09:27:21 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:21 INFO  time: compiled functional-programming-practical_d189e5655b in 0.2s
+2024.07.08 09:27:26 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:26 INFO  time: compiled functional-programming-practical_d189e5655b in 0.2s
+2024.07.08 09:27:28 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:28 INFO  time: compiled functional-programming-practical_d189e5655b in 0.31s
+2024.07.08 09:27:31 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:31 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+Jul 08, 2024 9:27:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1347
+Jul 08, 2024 9:27:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1348
+2024.07.08 09:27:33 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:33 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+2024.07.08 09:27:35 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:35 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.08 09:27:40 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:40 INFO  time: compiled functional-programming-practical_d189e5655b in 0.16s
+2024.07.08 09:27:40 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:41 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.08 09:27:43 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:43 INFO  time: compiled functional-programming-practical_d189e5655b in 0.16s
+2024.07.08 09:27:45 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:45 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.08 09:27:46 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:46 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.08 09:27:51 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:51 INFO  time: compiled functional-programming-practical_d189e5655b in 0.16s
+2024.07.08 09:27:55 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:55 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 09:27:57 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:57 INFO  time: compiled functional-programming-practical_d189e5655b in 0.11s
+2024.07.08 09:27:58 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:27:58 INFO  time: compiled functional-programming-practical_d189e5655b in 0.16s
+2024.07.08 09:28:02 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:28:02 INFO  time: compiled functional-programming-practical_d189e5655b in 0.15s
+2024.07.08 09:28:04 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:28:04 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 09:28:08 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:28:08 INFO  time: compiled functional-programming-practical_d189e5655b in 0.16s
+2024.07.08 09:28:10 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:28:10 INFO  time: compiled functional-programming-practical_d189e5655b in 0.16s
+2024.07.08 09:28:12 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:28:12 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.08 09:28:14 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:28:14 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 09:28:34 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:28:34 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.08 09:28:44 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:28:44 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.08 09:29:03 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:29:03 INFO  time: compiled functional-programming-practical_d189e5655b in 0.67s
+2024.07.08 09:29:19 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:29:19 INFO  time: compiled functional-programming-practical_d189e5655b in 0.26s
+2024.07.08 09:29:21 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:29:21 INFO  time: compiled functional-programming-practical_d189e5655b in 0.25s
+Jul 08, 2024 9:29:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1604
+Jul 08, 2024 9:29:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1613
+Jul 08, 2024 9:29:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1627
+2024.07.08 09:29:40 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:29:40 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.08 09:46:34 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:46:34 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 09:46:36 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:46:36 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 09:46:38 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:46:38 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.08 09:46:41 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:46:41 INFO  time: compiled functional-programming-practical_d189e5655b in 98ms
+2024.07.08 09:46:43 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:46:43 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:46:58 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:46:58 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:47:01 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:47:01 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.08 09:47:04 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:47:04 INFO  time: compiled functional-programming-practical_d189e5655b in 91ms
+2024.07.08 09:47:08 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:47:08 INFO  time: compiled functional-programming-practical_d189e5655b in 97ms
+2024.07.08 09:47:10 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:47:10 INFO  time: compiled functional-programming-practical_d189e5655b in 0.13s
+2024.07.08 09:47:16 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:47:16 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:47:18 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:47:18 INFO  time: compiled functional-programming-practical_d189e5655b in 0.22s
+2024.07.08 09:47:35 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:47:35 INFO  time: compiled functional-programming-practical_d189e5655b in 0.41s
+2024.07.08 09:47:39 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:47:39 INFO  time: compiled functional-programming-practical_d189e5655b in 0.21s
+2024.07.08 09:47:44 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:47:44 INFO  time: compiled functional-programming-practical_d189e5655b in 0.11s
+2024.07.08 09:47:49 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:47:49 INFO  time: compiled functional-programming-practical_d189e5655b in 88ms
+2024.07.08 09:47:54 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:47:54 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+2024.07.08 09:47:57 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:47:57 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+2024.07.08 09:48:00 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:48:00 INFO  time: compiled functional-programming-practical_d189e5655b in 0.2s
+2024.07.08 09:48:01 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:48:01 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+2024.07.08 09:48:17 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:48:17 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+Jul 08, 2024 9:48:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2131
+2024.07.08 09:48:30 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:48:30 INFO  time: compiled functional-programming-practical_d189e5655b in 0.26s
+Jul 08, 2024 9:48:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2173
+2024.07.08 09:48:37 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:48:37 INFO  time: compiled functional-programming-practical_d189e5655b in 98ms
+2024.07.08 09:48:39 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:48:39 INFO  time: compiled functional-programming-practical_d189e5655b in 84ms
+2024.07.08 09:48:41 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:48:41 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.08 09:48:49 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:48:49 INFO  time: compiled functional-programming-practical_d189e5655b in 0.21s
+2024.07.08 09:48:52 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:48:52 INFO  time: compiled functional-programming-practical_d189e5655b in 0.22s
+2024.07.08 09:48:59 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:48:59 INFO  time: compiled functional-programming-practical_d189e5655b in 82ms
+2024.07.08 09:49:01 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:49:01 INFO  time: compiled functional-programming-practical_d189e5655b in 99ms
+2024.07.08 09:49:12 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:49:12 INFO  time: compiled functional-programming-practical_d189e5655b in 86ms
+2024.07.08 09:49:20 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:49:20 INFO  time: compiled functional-programming-practical_d189e5655b in 89ms
+Jul 08, 2024 9:49:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2325
+2024.07.08 09:49:25 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:49:25 INFO  time: compiled functional-programming-practical_d189e5655b in 97ms
+2024.07.08 09:49:31 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:49:31 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:49:32 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:49:32 INFO  time: compiled functional-programming-practical_d189e5655b in 95ms
+2024.07.08 09:49:35 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:49:35 INFO  time: compiled functional-programming-practical_d189e5655b in 90ms
+2024.07.08 09:49:39 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:49:39 INFO  time: compiled functional-programming-practical_d189e5655b in 84ms
+2024.07.08 09:49:40 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:49:40 INFO  time: compiled functional-programming-practical_d189e5655b in 91ms
+2024.07.08 09:49:42 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:49:42 INFO  time: compiled functional-programming-practical_d189e5655b in 78ms
+2024.07.08 09:49:48 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:49:48 INFO  time: compiled functional-programming-practical_d189e5655b in 0.2s
+2024.07.08 09:49:54 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:49:54 INFO  time: compiled functional-programming-practical_d189e5655b in 0.11s
+2024.07.08 09:49:57 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:49:57 INFO  time: compiled functional-programming-practical_d189e5655b in 74ms
+2024.07.08 09:50:00 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:00 INFO  time: compiled functional-programming-practical_d189e5655b in 98ms
+2024.07.08 09:50:01 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:01 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+2024.07.08 09:50:03 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:03 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.08 09:50:09 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:09 INFO  time: compiled functional-programming-practical_d189e5655b in 0.36s
+2024.07.08 09:50:10 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:10 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 09:50:15 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:15 INFO  time: compiled functional-programming-practical_d189e5655b in 0.2s
+2024.07.08 09:50:19 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:19 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:50:21 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:21 INFO  time: compiled functional-programming-practical_d189e5655b in 0.28s
+2024.07.08 09:50:22 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:22 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+Jul 08, 2024 9:50:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2620
+2024.07.08 09:50:24 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:24 INFO  time: compiled functional-programming-practical_d189e5655b in 97ms
+2024.07.08 09:50:26 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:26 INFO  time: compiled functional-programming-practical_d189e5655b in 88ms
+2024.07.08 09:50:33 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:33 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.08 09:50:34 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:34 INFO  time: compiled functional-programming-practical_d189e5655b in 85ms
+2024.07.08 09:50:36 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:36 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:50:37 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:50:37 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 09:51:29 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:51:29 INFO  time: compiled functional-programming-practical_d189e5655b in 0.11s
+2024.07.08 09:51:33 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:51:33 INFO  time: compiled functional-programming-practical_d189e5655b in 0.13s
+2024.07.08 09:51:35 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:51:35 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:51:36 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:51:36 INFO  time: compiled functional-programming-practical_d189e5655b in 94ms
+2024.07.08 09:51:48 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:51:48 INFO  time: compiled functional-programming-practical_d189e5655b in 97ms
+2024.07.08 09:51:50 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:51:50 INFO  time: compiled functional-programming-practical_d189e5655b in 82ms
+2024.07.08 09:51:52 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:51:52 INFO  time: compiled functional-programming-practical_d189e5655b in 79ms
+2024.07.08 09:51:54 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:51:54 INFO  time: compiled functional-programming-practical_d189e5655b in 94ms
+2024.07.08 09:51:58 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:51:58 INFO  time: compiled functional-programming-practical_d189e5655b in 89ms
+Jul 08, 2024 9:52:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2800
+2024.07.08 09:52:01 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:52:01 INFO  time: compiled functional-programming-practical_d189e5655b in 93ms
+2024.07.08 09:52:21 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:52:21 INFO  time: compiled functional-programming-practical_d189e5655b in 0.15s
+2024.07.08 09:52:23 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:52:23 INFO  time: compiled functional-programming-practical_d189e5655b in 0.21s
+2024.07.08 09:52:25 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:52:25 INFO  time: compiled functional-programming-practical_d189e5655b in 97ms
+2024.07.08 09:52:32 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:52:32 INFO  time: compiled functional-programming-practical_d189e5655b in 88ms
+2024.07.08 09:53:24 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:53:24 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 09:53:26 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:53:26 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:53:34 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:53:34 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:53:36 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:53:36 INFO  time: compiled functional-programming-practical_d189e5655b in 86ms
+2024.07.08 09:53:41 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:53:41 INFO  time: compiled functional-programming-practical_d189e5655b in 84ms
+2024.07.08 09:53:47 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:53:47 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:53:49 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:53:49 INFO  time: compiled functional-programming-practical_d189e5655b in 81ms
+2024.07.08 09:53:50 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:53:50 INFO  time: compiled functional-programming-practical_d189e5655b in 92ms
+2024.07.08 09:53:53 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:53:53 INFO  time: compiled functional-programming-practical_d189e5655b in 85ms
+2024.07.08 09:53:56 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:53:56 INFO  time: compiled functional-programming-practical_d189e5655b in 0.13s
+2024.07.08 09:53:58 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:53:58 INFO  time: compiled functional-programming-practical_d189e5655b in 80ms
+2024.07.08 09:54:03 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:54:03 INFO  time: compiled functional-programming-practical_d189e5655b in 87ms
+2024.07.08 09:54:04 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:54:04 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:54:07 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:54:07 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.08 09:54:08 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:54:08 INFO  time: compiled functional-programming-practical_d189e5655b in 80ms
+2024.07.08 09:54:10 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:54:10 INFO  time: compiled functional-programming-practical_d189e5655b in 96ms
+2024.07.08 09:54:15 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:54:15 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.08 09:54:24 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:54:24 INFO  time: compiled functional-programming-practical_d189e5655b in 0.22s
+2024.07.08 09:54:51 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:54:51 INFO  time: compiled functional-programming-practical_d189e5655b in 84ms
+2024.07.08 09:54:52 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:54:52 INFO  time: compiled functional-programming-practical_d189e5655b in 0.21s
+2024.07.08 09:54:56 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:54:56 INFO  time: compiled functional-programming-practical_d189e5655b in 0.21s
+2024.07.08 09:54:58 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:54:58 INFO  time: compiled functional-programming-practical_d189e5655b in 0.2s
+2024.07.08 09:55:33 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:55:33 INFO  time: compiled functional-programming-practical_d189e5655b in 0.28s
+2024.07.08 09:55:34 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:55:34 INFO  time: compiled functional-programming-practical_d189e5655b in 0.13s
+2024.07.08 09:55:37 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:55:37 INFO  time: compiled functional-programming-practical_d189e5655b in 0.2s
+2024.07.08 09:55:47 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:55:47 INFO  time: compiled functional-programming-practical_d189e5655b in 0.27s
+2024.07.08 09:55:49 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:55:49 INFO  time: compiled functional-programming-practical_d189e5655b in 0.13s
+2024.07.08 09:55:51 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:55:51 INFO  time: compiled functional-programming-practical_d189e5655b in 0.17s
+2024.07.08 09:55:55 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 09:55:55 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+2024.07.08 10:00:12 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:00:12 INFO  time: compiled functional-programming-practical_d189e5655b in 0.17s
+2024.07.08 10:00:23 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:00:23 INFO  time: compiled functional-programming-practical_d189e5655b in 0.22s
+Jul 08, 2024 10:01:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3536
+2024.07.08 10:01:56 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:01:59 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:01:59 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:02:01 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:02:18 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:02:20 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:02:28 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:02:30 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:02:32 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:02:33 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:03:13 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:03:14 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:03:15 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:03:15 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:03:15 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:05:28 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:05:29 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:05:29 INFO  time: compiled functional-programming-practical_d189e5655b in 0.34s
+2024.07.08 10:05:29 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+Jul 08, 2024 10:05:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3662
+2024.07.08 10:05:43 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:05:43 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:05:44 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:05:44 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 10:05:45 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:05:46 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:05:46 INFO  time: compiled functional-programming-practical_d189e5655b in 0.32s
+2024.07.08 10:05:52 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:05:52 INFO  time: compiled functional-programming-practical_d189e5655b in 0.28s
+2024.07.08 10:05:54 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:05:54 INFO  time: compiled functional-programming-practical_d189e5655b in 0.29s
+2024.07.08 10:06:06 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:06:06 INFO  time: compiled functional-programming-practical_d189e5655b in 0.3s
+2024.07.08 10:06:24 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:06:24 INFO  time: compiled functional-programming-practical_d189e5655b in 0.29s
+2024.07.08 10:06:26 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:06:26 INFO  time: compiled functional-programming-practical_d189e5655b in 0.48s
+2024.07.08 10:06:28 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:06:28 INFO  time: compiled functional-programming-practical_d189e5655b in 0.15s
+2024.07.08 10:06:29 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:06:29 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:06:30 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\1.scala
+2024.07.08 10:06:31 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:06:31 INFO  time: compiled functional-programming-practical_d189e5655b in 0.28s
+Jul 08, 2024 10:06:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3787
+2024.07.08 10:06:41 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:06:41 INFO  time: compiled functional-programming-practical_d189e5655b in 0.32s
+2024.07.08 10:06:52 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:06:52 INFO  time: compiled functional-programming-practical_d189e5655b in 0.38s
+2024.07.08 10:14:12 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:14:12 INFO  time: compiled functional-programming-practical_d189e5655b in 0.23s
+2024.07.08 10:14:14 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 10:14:14 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.08 15:52:59 INFO  Shutting down server
+2024.07.08 15:52:59 INFO  shutting down Metals
+2024.07.08 15:52:59 INFO  Shut down connection with build server.
+2024.07.08 15:52:59 INFO  Exiting server
+2024.07.08 19:59:19 INFO  Started: Metals version 1.3.2 in folders 'D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical' for client Visual Studio Code 1.91.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@1371cd5f]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@43fc4a53]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@1371cd5f]
+2024.07.08 19:59:19 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.08 19:59:22 INFO  Attempting to connect to the build server...
+2024.07.08 19:59:22 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.07.08 19:59:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.08 19:59:28 INFO  BSP server: Starting compilation server
+2024.07.08 19:59:39 INFO  time: Connected to build server in 17s
+2024.07.08 19:59:39 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.08 19:59:39 INFO  time: Imported build in 0.12s
+2024.07.08 19:59:43 INFO  time: indexed workspace in 3.69s
+2024.07.08 20:04:00 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 20:04:00 INFO  time: Imported build in 0.1s
+2024.07.08 20:04:00 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:04:03 INFO  time: indexed workspace in 1.86s
+Jul 08, 2024 8:16:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 216
+Jul 08, 2024 8:16:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 230
+2024.07.08 20:17:18 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:17:23 INFO  time: compiled functional-programming-practical_d189e5655b in 4.63s
+2024.07.08 20:17:23 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:23 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:23 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:25 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:17:25 INFO  time: compiled functional-programming-practical_d189e5655b in 0.36s
+2024.07.08 20:17:25 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:26 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:26 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:17:26 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.08 20:17:28 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:29 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:17:29 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.08 20:17:29 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:30 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:31 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:32 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:33 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:33 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:17:33 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+2024.07.08 20:17:34 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:34 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:17:34 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.08 20:17:35 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:36 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:37 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:17:37 INFO  time: compiled functional-programming-practical_d189e5655b in 88ms
+2024.07.08 20:17:40 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:43 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:43 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:44 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:45 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:17:45 INFO  time: compiled functional-programming-practical_d189e5655b in 0.21s
+2024.07.08 20:17:45 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:48 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:50 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:51 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:52 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:53 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:54 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:17:54 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 20:17:54 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:55 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+Jul 08, 2024 8:17:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 468
+2024.07.08 20:17:55 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:56 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:57 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:17:57 INFO  time: compiled functional-programming-practical_d189e5655b in 0.23s
+2024.07.08 20:17:57 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:58 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:17:59 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:17:59 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.08 20:18:00 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:18:10 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:18:11 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:18:11 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 20:18:12 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:18:15 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:18:20 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:19:17 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:21:13 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:21:21 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:21:22 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:21:22 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:21:23 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:21:23 INFO  time: compiled functional-programming-practical_d189e5655b in 0.17s
+2024.07.08 20:21:24 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:21:25 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+Jul 08, 2024 8:21:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 543
+2024.07.08 20:21:26 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:21:27 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:21:27 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:21:27 INFO  time: compiled functional-programming-practical_d189e5655b in 0.2s
+2024.07.08 20:21:27 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:21:27 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:21:28 INFO  time: compiled functional-programming-practical_d189e5655b in 0.43s
+2024.07.08 20:21:32 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:21:32 INFO  time: compiled functional-programming-practical_d189e5655b in 0.37s
+2024.07.08 20:21:34 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:21:34 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.08 20:21:38 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:21:38 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.08 20:21:49 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:21:49 INFO  time: compiled functional-programming-practical_d189e5655b in 0.74s
+2024.07.08 20:21:51 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:21:52 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:21:51 INFO  time: compiled functional-programming-practical_d189e5655b in 0.97s
+2024.07.08 20:21:52 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:21:54 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:21:54 INFO  time: compiled functional-programming-practical_d189e5655b in 0.4s
+2024.07.08 20:21:59 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:21:59 INFO  time: compiled functional-programming-practical_d189e5655b in 0.4s
+2024.07.08 20:22:01 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:22:01 INFO  time: compiled functional-programming-practical_d189e5655b in 0.16s
+2024.07.08 20:22:03 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:22:03 INFO  time: compiled functional-programming-practical_d189e5655b in 0.38s
+2024.07.08 20:22:09 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:22:09 INFO  time: compiled functional-programming-practical_d189e5655b in 0.5s
+2024.07.08 20:22:14 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:22:14 INFO  time: compiled functional-programming-practical_d189e5655b in 0.39s
+2024.07.08 20:22:21 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:22:21 INFO  time: compiled functional-programming-practical_d189e5655b in 0.36s
+2024.07.08 20:22:47 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:22:47 INFO  time: compiled functional-programming-practical_d189e5655b in 0.29s
+2024.07.08 20:24:58 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:24:58 INFO  time: compiled functional-programming-practical_d189e5655b in 0.42s
+Jul 08, 2024 8:25:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 839
+Jul 08, 2024 8:25:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\.reports\metals-full\2024-07-08\r_compiler-error_(functional-programming-practical_d189e5655b)_20-25-51-249.md
+Jul 08, 2024 8:25:51 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\.reports\metals-full\2024-07-08\r_compiler-error_(functional-programming-practical_d189e5655b)_20-25-51-702.md
+Jul 08, 2024 8:25:52 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\.reports\metals-full\2024-07-08\r_compiler-error_(functional-programming-practical_d189e5655b)_20-25-52-044.md
+2024.07.08 20:25:53 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:25:53 INFO  time: compiled functional-programming-practical_d189e5655b in 0.25s
+2024.07.08 20:25:57 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:25:57 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 20:26:00 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:00 INFO  time: compiled functional-programming-practical_d189e5655b in 0.17s
+2024.07.08 20:26:01 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:01 INFO  time: compiled functional-programming-practical_d189e5655b in 0.15s
+2024.07.08 20:26:08 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:08 INFO  time: compiled functional-programming-practical_d189e5655b in 0.13s
+2024.07.08 20:26:10 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:10 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 20:26:14 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:14 INFO  time: compiled functional-programming-practical_d189e5655b in 0.49s
+2024.07.08 20:26:16 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:16 INFO  time: compiled functional-programming-practical_d189e5655b in 0.52s
+2024.07.08 20:26:19 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:19 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 20:26:23 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:23 INFO  time: compiled functional-programming-practical_d189e5655b in 0.4s
+Jul 08, 2024 8:26:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1003
+2024.07.08 20:26:27 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:26:27 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:27 INFO  time: compiled functional-programming-practical_d189e5655b in 0.33s
+2024.07.08 20:26:28 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:28 INFO  time: compiled functional-programming-practical_d189e5655b in 0.34s
+2024.07.08 20:26:31 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:32 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:26:31 INFO  time: compiled functional-programming-practical_d189e5655b in 0.34s
+2024.07.08 20:26:35 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:35 INFO  time: compiled functional-programming-practical_d189e5655b in 0.31s
+2024.07.08 20:26:39 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:39 INFO  time: compiled functional-programming-practical_d189e5655b in 0.29s
+2024.07.08 20:26:42 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:42 INFO  time: compiled functional-programming-practical_d189e5655b in 0.26s
+2024.07.08 20:26:44 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:44 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.08 20:26:48 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:26:48 INFO  time: compiled functional-programming-practical_d189e5655b in 0.26s
+2024.07.08 20:28:56 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:28:56 INFO  time: compiled functional-programming-practical_d189e5655b in 0.29s
+2024.07.08 20:28:59 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:28:59 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:28:59 INFO  time: compiled functional-programming-practical_d189e5655b in 0.2s
+2024.07.08 20:28:59 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:00 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:01 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:01 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.08 20:29:01 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:03 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:03 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:07 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:07 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:07 INFO  time: compiled functional-programming-practical_d189e5655b in 0.13s
+2024.07.08 20:29:08 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:09 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:09 INFO  time: compiled functional-programming-practical_d189e5655b in 0.39s
+2024.07.08 20:29:10 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:10 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:11 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:11 INFO  time: compiled functional-programming-practical_d189e5655b in 0.17s
+2024.07.08 20:29:12 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:12 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:13 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:14 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:14 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:14 INFO  time: compiled functional-programming-practical_d189e5655b in 0.37s
+2024.07.08 20:29:14 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:14 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:16 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:16 INFO  time: compiled functional-programming-practical_d189e5655b in 0.37s
+2024.07.08 20:29:17 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:19 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:21 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:21 INFO  time: compiled functional-programming-practical_d189e5655b in 0.35s
+2024.07.08 20:29:21 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:22 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:23 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:23 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:24 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:25 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:25 INFO  time: compiled functional-programming-practical_d189e5655b in 0.3s
+2024.07.08 20:29:25 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:28 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:31 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\2.scala
+2024.07.08 20:29:32 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:32 INFO  time: compiled functional-programming-practical_d189e5655b in 0.25s
+Jul 08, 2024 8:29:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1281
+2024.07.08 20:29:36 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:36 INFO  time: compiled functional-programming-practical_d189e5655b in 0.17s
+2024.07.08 20:29:38 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:38 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.08 20:29:40 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:40 INFO  time: compiled functional-programming-practical_d189e5655b in 0.28s
+2024.07.08 20:29:55 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:55 INFO  time: compiled functional-programming-practical_d189e5655b in 0.27s
+2024.07.08 20:29:57 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:57 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.08 20:29:59 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:29:59 INFO  time: compiled functional-programming-practical_d189e5655b in 0.32s
+2024.07.08 20:31:03 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 20:31:04 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:31:04 INFO  time: compiled functional-programming-practical_d189e5655b in 0.11s
+2024.07.08 20:31:05 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 20:31:05 INFO  time: code lens generation in 1.45s
+2024.07.08 20:31:07 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:31:07 INFO  time: compiled functional-programming-practical_d189e5655b in 0.13s
+2024.07.08 20:31:07 INFO  time: indexed workspace in 3.18s
+2024.07.08 20:31:12 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:31:12 INFO  time: compiled functional-programming-practical_d189e5655b in 0.25s
+2024.07.08 20:31:13 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:31:13 INFO  time: compiled functional-programming-practical_d189e5655b in 0.22s
+2024.07.08 20:31:14 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:31:14 INFO  time: compiled functional-programming-practical_d189e5655b in 0.23s
+2024.07.08 20:31:16 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:31:17 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_4\3.scala
+2024.07.08 20:31:16 INFO  time: compiled functional-programming-practical_d189e5655b in 0.23s
+Jul 08, 2024 8:31:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1439
+2024.07.08 20:31:18 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:31:18 INFO  time: compiled functional-programming-practical_d189e5655b in 0.23s
+2024.07.08 20:31:20 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:31:20 INFO  time: compiled functional-programming-practical_d189e5655b in 0.11s
+2024.07.08 20:31:22 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:31:22 INFO  time: compiled functional-programming-practical_d189e5655b in 97ms
+2024.07.08 20:31:28 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:31:28 INFO  time: compiled functional-programming-practical_d189e5655b in 0.16s
+2024.07.08 20:31:31 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:31:31 INFO  time: compiled functional-programming-practical_d189e5655b in 68ms
+2024.07.08 20:31:33 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:31:33 INFO  time: compiled functional-programming-practical_d189e5655b in 90ms
+2024.07.08 20:31:38 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.08 20:31:38 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
