@@ -20,6 +20,12 @@ object prac5_3{
    def main(args: Array[String]): Unit = {
       print("Enter the number of Fibonacci Numbers to print: ")
       var n = readLine().toInt
-      printFib(n)
+      if(n >= 50){
+         println("Please enter a number less than 50")
+         printFib(50)
+      }else{
+         printFib(n)
+      }
+      
    }
 }

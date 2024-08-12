@@ -3707,3 +3707,708 @@ WARNING: Unmatched cancel notification for request id 2841
 2024.07.16 07:18:07 INFO  shutting down Metals
 2024.07.16 07:18:07 INFO  Shut down connection with build server.
 2024.07.16 07:18:07 INFO  Exiting server
+2024.07.16 08:30:47 INFO  Started: Metals version 1.3.3 in folders 'D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@1c35ef9b]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@9ce8d61]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@1c35ef9b]
+2024.07.16 08:30:47 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.16 08:30:49 INFO  Attempting to connect to the build server...
+2024.07.16 08:30:49 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.07.16 08:30:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.16 08:30:54 INFO  BSP server: Starting compilation server
+Jul 16, 2024 8:31:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Jul 16, 2024 8:31:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2024.07.16 08:31:05 INFO  time: Connected to build server in 15s
+2024.07.16 08:31:05 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.16 08:31:05 INFO  time: Imported build in 0.2s
+2024.07.16 08:31:05 INFO  running doctor check
+2024.07.16 08:31:05 INFO  java targets: functional-programming-practical_d189e5655b, functional-programming-practical_d189e5655b-test
+2024.07.16 08:31:13 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.16 08:31:20 INFO  time: indexed workspace in 14s
+2024.07.16 08:32:59 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 08:33:06 INFO  time: compiled functional-programming-practical_d189e5655b in 7.13s
+2024.07.16 08:33:07 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\2.scala
+2024.07.16 08:33:07 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\2.scala
+2024.07.16 08:33:08 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\2.scala
+2024.07.16 08:33:09 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 08:33:11 INFO  time: compiled functional-programming-practical_d189e5655b in 1.19s
+2024.07.16 08:33:14 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 08:33:14 INFO  time: compiled functional-programming-practical_d189e5655b in 0.99s
+2024.07.16 08:33:19 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 08:33:19 INFO  time: compiled functional-programming-practical_d189e5655b in 0.89s
+2024.07.16 08:33:23 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 08:33:23 INFO  time: compiled functional-programming-practical_d189e5655b in 0.81s
+2024.07.16 08:33:28 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 08:33:28 INFO  time: compiled functional-programming-practical_d189e5655b in 0.81s
+2024.07.16 08:42:28 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 08:42:32 INFO  time: compiled functional-programming-practical_d189e5655b in 4.48s
+2024.07.16 08:42:39 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 08:42:39 INFO  time: compiled functional-programming-practical_d189e5655b in 0.89s
+2024.07.16 08:45:10 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 08:45:10 INFO  time: compiled functional-programming-practical_d189e5655b in 0.54s
+2024.07.16 08:45:12 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 08:45:12 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+2024.07.16 08:45:15 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 08:45:15 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+2024.07.16 08:45:17 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 08:45:17 INFO  time: compiled functional-programming-practical_d189e5655b in 0.73s
+2024.07.16 09:00:14 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:00:14 INFO  time: compiled functional-programming-practical_d189e5655b in 0.54s
+2024.07.16 09:00:24 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:00:24 INFO  time: compiled functional-programming-practical_d189e5655b in 0.54s
+2024.07.16 09:00:30 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:00:30 INFO  time: compiled functional-programming-practical_d189e5655b in 0.45s
+2024.07.16 09:01:21 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:01:21 INFO  time: compiled functional-programming-practical_d189e5655b in 0.52s
+2024.07.16 09:01:23 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\2.scala
+2024.07.16 09:01:24 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:01:24 INFO  time: compiled functional-programming-practical_d189e5655b in 0.5s
+2024.07.16 09:01:27 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:01:27 INFO  time: compiled functional-programming-practical_d189e5655b in 0.49s
+2024.07.16 09:01:36 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:01:36 INFO  time: compiled functional-programming-practical_d189e5655b in 0.44s
+2024.07.16 09:01:38 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:01:38 INFO  time: compiled functional-programming-practical_d189e5655b in 0.38s
+2024.07.16 09:03:45 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:03:45 INFO  time: compiled functional-programming-practical_d189e5655b in 0.49s
+Jul 16, 2024 9:03:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1078
+2024.07.16 09:03:50 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:03:50 INFO  time: compiled functional-programming-practical_d189e5655b in 0.41s
+2024.07.16 09:04:23 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:04:23 INFO  time: compiled functional-programming-practical_d189e5655b in 0.49s
+2024.07.16 09:04:23 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\2.scala
+2024.07.16 09:04:23 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:04:24 INFO  time: compiled functional-programming-practical_d189e5655b in 0.5s
+2024.07.16 09:04:39 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:04:39 INFO  time: compiled functional-programming-practical_d189e5655b in 0.38s
+2024.07.16 09:04:45 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:04:45 INFO  time: compiled functional-programming-practical_d189e5655b in 0.38s
+2024.07.16 09:07:16 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:07:16 INFO  time: compiled functional-programming-practical_d189e5655b in 0.55s
+2024.07.16 09:09:42 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:09:42 INFO  time: compiled functional-programming-practical_d189e5655b in 0.5s
+2024.07.16 09:10:02 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:10:02 INFO  time: compiled functional-programming-practical_d189e5655b in 0.39s
+2024.07.16 09:10:33 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:10:33 INFO  time: compiled functional-programming-practical_d189e5655b in 0.38s
+2024.07.16 09:10:36 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:10:36 INFO  time: compiled functional-programming-practical_d189e5655b in 0.36s
+2024.07.16 09:10:39 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:10:39 INFO  time: compiled functional-programming-practical_d189e5655b in 0.49s
+2024.07.16 09:11:21 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:11:21 INFO  time: compiled functional-programming-practical_d189e5655b in 0.47s
+2024.07.16 09:16:37 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 09:16:38 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:16:38 INFO  time: compiled functional-programming-practical_d189e5655b in 0.79s
+2024.07.16 09:16:39 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.16 09:16:39 INFO  running doctor check
+2024.07.16 09:16:39 INFO  java targets: functional-programming-practical_d189e5655b, functional-programming-practical_d189e5655b-test
+2024.07.16 09:16:40 INFO  time: code lens generation in 2.15s
+2024.07.16 09:16:41 INFO  time: indexed workspace in 2.05s
+2024.07.16 09:24:09 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:24:09 INFO  time: compiled functional-programming-practical_d189e5655b in 62ms
+2024.07.16 09:24:11 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:24:11 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.16 09:24:14 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:24:14 INFO  time: compiled functional-programming-practical_d189e5655b in 96ms
+2024.07.16 09:24:15 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:24:15 INFO  time: compiled functional-programming-practical_d189e5655b in 96ms
+2024.07.16 09:24:21 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:24:21 INFO  time: compiled functional-programming-practical_d189e5655b in 65ms
+2024.07.16 09:24:26 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:24:26 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.16 09:24:27 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:24:27 INFO  time: compiled functional-programming-practical_d189e5655b in 81ms
+2024.07.16 09:24:28 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:24:28 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.16 09:24:29 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:24:29 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.16 09:24:30 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala
+2024.07.16 09:24:30 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala
+2024.07.16 09:24:31 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala
+2024.07.16 09:24:30 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala
+2024.07.16 09:24:31 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala
+2024.07.16 09:24:32 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:24:32 INFO  time: compiled functional-programming-practical_d189e5655b in 98ms
+2024.07.16 09:24:33 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala
+2024.07.16 09:24:34 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala
+2024.07.16 09:24:34 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala
+2024.07.16 09:24:34 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala
+2024.07.16 09:24:36 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:24:36 INFO  time: compiled functional-programming-practical_d189e5655b in 0.13s
+2024.07.16 09:24:46 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:24:46 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.16 09:27:22 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:27:22 INFO  time: compiled functional-programming-practical_d189e5655b in 0.13s
+2024.07.16 09:27:33 INFO  compiling functional-programming-practical_d189e5655b (2 scala sources)
+2024.07.16 09:27:33 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.16 09:27:35 INFO  compiling functional-programming-practical_d189e5655b (2 scala sources)
+2024.07.16 09:27:35 INFO  time: compiled functional-programming-practical_d189e5655b in 0.13s
+2024.07.16 09:27:36 INFO  compiling functional-programming-practical_d189e5655b (2 scala sources)
+2024.07.16 09:27:36 INFO  time: compiled functional-programming-practical_d189e5655b in 0.16s
+2024.07.16 09:28:27 INFO  compiling functional-programming-practical_d189e5655b (2 scala sources)
+2024.07.16 09:28:27 INFO  time: compiled functional-programming-practical_d189e5655b in 0.15s
+2024.07.16 09:28:29 INFO  compiling functional-programming-practical_d189e5655b (2 scala sources)
+2024.07.16 09:28:29 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.16 09:28:30 INFO  compiling functional-programming-practical_d189e5655b (2 scala sources)
+2024.07.16 09:28:30 INFO  time: compiled functional-programming-practical_d189e5655b in 0.17s
+2024.07.16 09:28:33 INFO  compiling functional-programming-practical_d189e5655b (2 scala sources)
+2024.07.16 09:28:33 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.16 09:28:35 INFO  compiling functional-programming-practical_d189e5655b (2 scala sources)
+2024.07.16 09:28:35 INFO  time: compiled functional-programming-practical_d189e5655b in 0.52s
+2024.07.16 09:28:36 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:28:36 INFO  time: compiled functional-programming-practical_d189e5655b in 0.28s
+2024.07.16 09:28:42 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:28:42 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+Jul 16, 2024 9:28:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2024
+2024.07.16 09:28:45 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:28:45 INFO  time: compiled functional-programming-practical_d189e5655b in 94ms
+2024.07.16 09:28:51 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:28:51 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.16 09:29:00 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:29:00 INFO  time: compiled functional-programming-practical_d189e5655b in 0.22s
+2024.07.16 09:29:24 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:29:24 INFO  time: compiled functional-programming-practical_d189e5655b in 0.21s
+2024.07.16 09:29:26 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:29:26 INFO  time: compiled functional-programming-practical_d189e5655b in 0.12s
+2024.07.16 09:29:27 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:29:27 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.16 09:29:31 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:29:31 INFO  time: compiled functional-programming-practical_d189e5655b in 92ms
+2024.07.16 09:29:34 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:29:34 INFO  time: compiled functional-programming-practical_d189e5655b in 84ms
+Jul 16, 2024 9:29:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2254
+Jul 16, 2024 9:31:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2437
+2024.07.16 09:31:31 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:31:31 INFO  time: compiled functional-programming-practical_d189e5655b in 0.46s
+2024.07.16 09:31:35 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:31:35 INFO  time: compiled functional-programming-practical_d189e5655b in 0.46s
+2024.07.16 09:31:43 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:31:43 INFO  time: compiled functional-programming-practical_d189e5655b in 0.15s
+2024.07.16 09:32:18 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:32:18 INFO  time: compiled functional-programming-practical_d189e5655b in 87ms
+2024.07.16 09:32:20 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:32:20 INFO  time: compiled functional-programming-practical_d189e5655b in 99ms
+2024.07.16 09:32:22 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:32:22 INFO  time: compiled functional-programming-practical_d189e5655b in 86ms
+2024.07.16 09:32:54 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:32:54 INFO  time: compiled functional-programming-practical_d189e5655b in 0.1s
+2024.07.16 09:33:01 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:33:01 INFO  time: compiled functional-programming-practical_d189e5655b in 0.2s
+2024.07.16 09:33:17 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:33:17 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.16 09:33:18 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:33:18 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala
+2024.07.16 09:33:18 INFO  time: compiled functional-programming-practical_d189e5655b in 0.26s
+2024.07.16 09:33:19 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:33:19 INFO  time: compiled functional-programming-practical_d189e5655b in 0.22s
+2024.07.16 09:34:31 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:34:31 INFO  time: compiled functional-programming-practical_d189e5655b in 0.15s
+2024.07.16 09:34:33 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:34:33 INFO  time: compiled functional-programming-practical_d189e5655b in 0.22s
+2024.07.16 09:34:35 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:34:35 INFO  time: compiled functional-programming-practical_d189e5655b in 0.32s
+2024.07.16 09:34:37 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:34:37 INFO  time: compiled functional-programming-practical_d189e5655b in 0.23s
+2024.07.16 09:34:39 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:34:39 INFO  time: compiled functional-programming-practical_d189e5655b in 0.21s
+2024.07.16 09:34:40 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:34:40 INFO  time: compiled functional-programming-practical_d189e5655b in 0.25s
+2024.07.16 09:34:42 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:34:42 INFO  time: compiled functional-programming-practical_d189e5655b in 0.13s
+2024.07.16 09:34:44 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:34:44 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.16 09:34:46 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:34:46 INFO  time: compiled functional-programming-practical_d189e5655b in 0.23s
+2024.07.16 09:34:48 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:34:48 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.16 09:34:52 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:34:52 INFO  time: compiled functional-programming-practical_d189e5655b in 0.22s
+2024.07.16 09:34:57 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:34:57 INFO  time: compiled functional-programming-practical_d189e5655b in 0.22s
+2024.07.16 09:34:59 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:34:59 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+Jul 16, 2024 9:35:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2858
+Jul 16, 2024 9:35:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2865
+2024.07.16 09:35:05 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:35:05 INFO  time: compiled functional-programming-practical_d189e5655b in 0.21s
+2024.07.16 09:35:09 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:35:09 INFO  time: compiled functional-programming-practical_d189e5655b in 0.26s
+2024.07.16 09:35:12 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:35:12 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.16 09:35:15 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:35:15 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+2024.07.16 09:35:19 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:35:19 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.16 09:35:20 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:35:20 INFO  time: compiled functional-programming-practical_d189e5655b in 0.23s
+2024.07.16 09:35:23 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:35:23 INFO  time: compiled functional-programming-practical_d189e5655b in 0.35s
+2024.07.16 09:35:25 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:35:25 INFO  time: compiled functional-programming-practical_d189e5655b in 0.25s
+2024.07.16 09:35:26 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:35:26 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.16 09:35:26 INFO  time: compiled functional-programming-practical_d189e5655b in 0.88s
+2024.07.16 09:35:37 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+Jul 16, 2024 9:35:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3002
+2024.07.16 09:35:37 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.16 09:35:37 INFO  time: compiled functional-programming-practical_d189e5655b in 0.73s
+2024.07.16 09:35:42 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:35:42 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+2024.07.16 09:35:43 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala
+2024.07.16 09:35:44 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala
+2024.07.16 09:35:45 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:35:45 WARN  Could not load snapshot text for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_5\3.scala
+2024.07.16 09:35:45 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.16 09:35:45 INFO  time: compiled functional-programming-practical_d189e5655b in 0.36s
+2024.07.16 09:35:46 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:35:46 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.16 09:35:46 INFO  time: compiled functional-programming-practical_d189e5655b in 0.3s
+2024.07.16 09:35:51 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:35:51 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.16 09:35:51 INFO  time: compiled functional-programming-practical_d189e5655b in 0.3s
+2024.07.16 09:38:26 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:38:26 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.16 09:38:26 INFO  time: compiled functional-programming-practical_d189e5655b in 0.34s
+2024.07.16 09:38:57 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:38:57 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.16 09:38:57 INFO  time: compiled functional-programming-practical_d189e5655b in 0.26s
+2024.07.16 09:39:04 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:39:04 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.16 09:39:04 INFO  time: compiled functional-programming-practical_d189e5655b in 0.3s
+2024.07.16 09:39:22 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:39:22 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.16 09:39:22 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.16 09:39:29 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:39:29 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.16 09:39:29 INFO  time: compiled functional-programming-practical_d189e5655b in 0.31s
+2024.07.16 09:39:42 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:39:42 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.16 09:39:42 INFO  time: compiled functional-programming-practical_d189e5655b in 0.33s
+2024.07.16 09:42:17 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:42:17 INFO  time: compiled functional-programming-practical_d189e5655b in 0.41s
+2024.07.16 09:43:03 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:43:03 INFO  time: compiled functional-programming-practical_d189e5655b in 0.2s
+2024.07.16 09:43:07 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:43:07 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.16 09:43:07 INFO  time: compiled functional-programming-practical_d189e5655b in 0.26s
+2024.07.16 09:43:08 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:43:08 WARN  there was 1 deprecation warning; re-run with -deprecation for details
+2024.07.16 09:43:08 INFO  time: compiled functional-programming-practical_d189e5655b in 0.34s
+2024.07.16 09:43:23 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:43:23 INFO  time: compiled functional-programming-practical_d189e5655b in 0.29s
+2024.07.16 09:43:27 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:43:27 INFO  time: compiled functional-programming-practical_d189e5655b in 0.21s
+2024.07.16 09:43:28 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:43:28 INFO  time: compiled functional-programming-practical_d189e5655b in 0.18s
+2024.07.16 09:43:29 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:43:29 INFO  time: compiled functional-programming-practical_d189e5655b in 0.15s
+2024.07.16 09:43:34 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:43:34 INFO  time: compiled functional-programming-practical_d189e5655b in 0.33s
+2024.07.16 09:43:39 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:43:39 INFO  time: compiled functional-programming-practical_d189e5655b in 0.22s
+Jul 16, 2024 9:43:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3392
+2024.07.16 09:43:44 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:43:44 INFO  time: compiled functional-programming-practical_d189e5655b in 0.29s
+Jul 16, 2024 9:43:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3410
+2024.07.16 09:43:48 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 09:43:48 INFO  time: compiled functional-programming-practical_d189e5655b in 0.36s
+Jul 16, 2024 9:44:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 16, 2024 9:45:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3465
+Jul 16, 2024 9:56:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3613
+Jul 16, 2024 10:02:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3707
+2024.07.16 10:15:11 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:15:11 INFO  time: compiled functional-programming-practical_d189e5655b in 0.68s
+2024.07.16 10:15:13 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:15:13 INFO  time: compiled functional-programming-practical_d189e5655b in 0.47s
+2024.07.16 10:15:15 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:15:15 INFO  time: compiled functional-programming-practical_d189e5655b in 0.39s
+2024.07.16 10:15:17 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:15:17 INFO  time: compiled functional-programming-practical_d189e5655b in 0.33s
+2024.07.16 10:15:18 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:15:18 INFO  time: compiled functional-programming-practical_d189e5655b in 0.27s
+2024.07.16 10:15:21 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:15:21 INFO  time: compiled functional-programming-practical_d189e5655b in 0.32s
+2024.07.16 10:15:27 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:15:27 INFO  time: compiled functional-programming-practical_d189e5655b in 0.47s
+2024.07.16 10:15:33 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:15:33 INFO  time: compiled functional-programming-practical_d189e5655b in 0.36s
+2024.07.16 10:15:35 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:15:35 INFO  time: compiled functional-programming-practical_d189e5655b in 0.31s
+2024.07.16 10:15:39 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:15:39 INFO  time: compiled functional-programming-practical_d189e5655b in 0.31s
+2024.07.16 10:15:42 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:15:42 INFO  time: compiled functional-programming-practical_d189e5655b in 0.31s
+2024.07.16 10:15:47 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:15:47 INFO  time: compiled functional-programming-practical_d189e5655b in 0.3s
+2024.07.16 10:16:44 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:16:44 INFO  time: compiled functional-programming-practical_d189e5655b in 0.31s
+2024.07.16 10:16:47 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:16:47 INFO  time: compiled functional-programming-practical_d189e5655b in 0.19s
+2024.07.16 10:16:51 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:16:51 INFO  time: compiled functional-programming-practical_d189e5655b in 0.14s
+2024.07.16 10:16:53 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:16:53 INFO  time: compiled functional-programming-practical_d189e5655b in 0.29s
+2024.07.16 10:17:15 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:17:15 INFO  time: compiled functional-programming-practical_d189e5655b in 0.26s
+Jul 16, 2024 10:17:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4142
+2024.07.16 10:17:24 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.16 10:17:24 INFO  time: compiled functional-programming-practical_d189e5655b in 0.24s
+2024.07.16 10:32:32 INFO  Shutting down server
+2024.07.16 10:32:32 INFO  shutting down Metals
+2024.07.16 10:32:32 INFO  Shut down connection with build server.
+2024.07.16 10:32:32 INFO  Exiting server
+2024.07.30 10:18:40 INFO  Started: Metals version 1.3.3 in folders 'D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@8b57b29]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@6a81d8be]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@8b57b29]
+2024.07.30 10:18:41 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.30 10:18:43 INFO  Attempting to connect to the build server...
+2024.07.30 10:18:43 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.07.30 10:18:43 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.30 10:18:55 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.30 10:18:55 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.30 10:18:55 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.30 10:19:00 INFO  BSP server: Still downloading:
+2024.07.30 10:19:00 INFO  BSP server: https://github.com/coursier/jvm-index/raw/master/index.json (6.17 %, 114688 / 1857527)
+2024.07.30 10:19:00 INFO  BSP server: 
+2024.07.30 10:19:06 INFO  BSP server: Still downloading:
+2024.07.30 10:19:06 INFO  BSP server: https://github.com/coursier/jvm-index/raw/master/index.json (12.35 %, 229376 / 1857527)
+2024.07.30 10:19:06 INFO  BSP server: 
+2024.07.30 10:19:12 INFO  BSP server: Still downloading:
+2024.07.30 10:19:12 INFO  BSP server: https://github.com/coursier/jvm-index/raw/master/index.json (16.42 %, 304960 / 1857527)
+2024.07.30 10:19:12 INFO  BSP server: 
+2024.07.30 10:19:17 INFO  BSP server: Still downloading:
+2024.07.30 10:19:17 INFO  BSP server: https://github.com/coursier/jvm-index/raw/master/index.json (25.24 %, 468800 / 1857527)
+2024.07.30 10:19:17 INFO  BSP server: 
+2024.07.30 10:19:23 INFO  BSP server: Still downloading:
+2024.07.30 10:19:23 INFO  BSP server: https://github.com/coursier/jvm-index/raw/master/index.json (37.59 %, 698176 / 1857527)
+2024.07.30 10:19:23 INFO  BSP server: 
+2024.07.30 10:19:29 INFO  BSP server: Still downloading:
+2024.07.30 10:19:29 INFO  BSP server: https://github.com/coursier/jvm-index/raw/master/index.json (54.95 %, 1020736 / 1857527)
+2024.07.30 10:19:29 INFO  BSP server: 
+2024.07.30 10:19:35 INFO  BSP server: Still downloading:
+2024.07.30 10:19:35 INFO  BSP server: https://github.com/coursier/jvm-index/raw/master/index.json (80.25 %, 1490752 / 1857527)
+2024.07.30 10:19:35 INFO  BSP server: 
+2024.07.30 10:19:40 INFO  BSP server: Still downloading:
+2024.07.30 10:19:40 INFO  BSP server: https://github.com/coursier/jvm-index/raw/master/index.json (86.43 %, 1605440 / 1857527)
+2024.07.30 10:19:40 INFO  BSP server: 
+2024.07.30 10:19:44 ERROR Timeout waiting for 'build/initialize' response
+2024.07.30 10:19:44 WARN  Retrying connection to the build server scala-cli
+2024.07.30 10:19:44 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.07.30 10:19:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.30 10:19:46 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.30 10:19:46 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.30 10:19:46 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.30 10:19:49 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.07.30 10:19:54 INFO  BSP server: Starting compilation server
+2024.07.30 10:20:09 INFO  time: Connected to build server in 1m26s
+2024.07.30 10:20:09 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.30 10:20:10 INFO  time: Imported build in 0.99s
+2024.07.30 10:20:10 INFO  running doctor check
+2024.07.30 10:20:10 INFO  java targets: functional-programming-practical_d189e5655b, functional-programming-practical_d189e5655b-test
+2024.07.30 10:20:34 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.30 10:20:34 INFO  time: indexed workspace in 24s
+2024.07.30 10:21:10 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_6\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 10:21:11 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.30 10:21:12 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_6\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.30 10:21:12 INFO  running doctor check
+2024.07.30 10:21:12 INFO  java targets: functional-programming-practical_d189e5655b, functional-programming-practical_d189e5655b-test
+2024.07.30 10:21:13 INFO  time: indexed workspace in 1.79s
+2024.07.30 10:21:14 INFO  Deduplicating compilation of functional-programming-practical_d189e5655b from bsp client 'scala-cli 1.3.2' (since 1m 7.838s)
+2024.07.30 10:21:14 INFO  compiling functional-programming-practical_d189e5655b (1 scala source)
+2024.07.30 10:21:14 INFO  time: compiled functional-programming-practical_d189e5655b in 0.61s
+2024.07.30 10:21:15 INFO  time: code lens generation in 3.88s
+2024.08.06 09:18:18 INFO  Started: Metals version 1.3.5 in folders 'D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical' for client Visual Studio Code 1.91.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@67fef74c]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@303fc667]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@67fef74c]
+2024.08.06 09:18:22 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Aug 06, 2024 9:18:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2024.08.06 09:18:24 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:18:25 INFO  Attempting to connect to the build server...
+2024.08.06 09:18:25 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.08.06 09:18:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.06 09:18:28 INFO  BSP server: Checking https://github.com/coursier/jvm-index/raw/master/index.json
+2024.08.06 09:18:28 INFO  BSP server: Checked https://github.com/coursier/jvm-index/raw/master/index.json
+2024.08.06 09:18:28 INFO  BSP server: Downloading https://github.com/coursier/jvm-index/raw/master/index.json
+2024.08.06 09:18:33 INFO  BSP server: Still downloading:
+2024.08.06 09:18:33 INFO  BSP server: https://github.com/coursier/jvm-index/raw/master/index.json (57.12 %, 1061056 / 1857527)
+2024.08.06 09:18:33 INFO  BSP server: 
+2024.08.06 09:18:37 INFO  BSP server: Downloaded https://github.com/coursier/jvm-index/raw/master/index.json
+2024.08.06 09:18:46 INFO  BSP server: Starting compilation server
+2024.08.06 09:19:13 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 06, 2024 9:19:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Aug 06, 2024 9:19:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Aug 06, 2024 9:19:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2024.08.06 09:19:13 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:19:13 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:19:13 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 06, 2024 9:19:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+Aug 06, 2024 9:19:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+Aug 06, 2024 9:19:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+Aug 06, 2024 9:19:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2024.08.06 09:19:13 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 06, 2024 9:19:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+2024.08.06 09:19:13 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:19:25 ERROR Timeout waiting for 'build/initialize' response
+2024.08.06 09:19:25 WARN  Retrying connection to the build server scala-cli
+2024.08.06 09:19:25 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.08.06 09:19:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.06 09:19:27 INFO  BSP server: Starting compilation server
+2024.08.06 09:19:42 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:19:44 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:19:44 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:19:44 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:19:48 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:19:51 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:19:54 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:19:54 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:19:57 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:02 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:03 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.08.06 09:20:03 INFO  BSP server: For more details, please see 'D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\stacktraces\1722916203-2451200458843999598.log'
+2024.08.06 09:20:03 INFO  BSP server: Running
+2024.08.06 09:20:03 INFO  BSP server:   C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.08.06 09:20:03 INFO  BSP server: might give more details.
+2024.08.06 09:20:18 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:18 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:19 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:19 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:19 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:21 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:21 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:21 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:22 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala
+2024.08.06 09:20:22 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:23 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:25 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:25 ERROR Timeout waiting for 'build/initialize' response
+2024.08.06 09:20:25 WARN  Retrying connection to the build server scala-cli
+2024.08.06 09:20:25 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.08.06 09:20:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.06 09:20:25 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:26 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala
+2024.08.06 09:20:26 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:28 INFO  BSP server: Starting compilation server
+2024.08.06 09:20:51 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 06, 2024 9:20:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 85
+2024.08.06 09:20:51 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:51 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:54 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:54 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:54 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:20:59 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:00 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:21:00 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:00 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:00 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:02 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:21:02 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:02 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:03 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:03 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:21:04 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.08.06 09:21:04 INFO  BSP server: For more details, please see 'D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\stacktraces\1722916264-7123061833082697648.log'
+2024.08.06 09:21:04 INFO  BSP server: Running
+2024.08.06 09:21:04 INFO  BSP server:   C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.08.06 09:21:04 INFO  BSP server: might give more details.
+2024.08.06 09:21:08 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:08 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:10 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:11 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:11 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:13 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:21:13 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:25 ERROR Timeout waiting for 'build/initialize' response
+2024.08.06 09:21:25 WARN  Retrying connection to the build server scala-cli
+2024.08.06 09:21:25 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.08.06 09:21:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.06 09:21:27 INFO  BSP server: Starting compilation server
+2024.08.06 09:21:30 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:31 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 06, 2024 9:21:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 134
+2024.08.06 09:21:31 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:33 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:33 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:37 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:37 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:37 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:39 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:40 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:40 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:41 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:21:41 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala
+2024.08.06 09:22:03 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.08.06 09:22:03 INFO  BSP server: For more details, please see 'D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\stacktraces\1722916323-2065743336112447321.log'
+2024.08.06 09:22:03 INFO  BSP server: Running
+2024.08.06 09:22:03 INFO  BSP server:   C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.08.06 09:22:03 INFO  BSP server: might give more details.
+2024.08.06 09:22:25 ERROR Timeout waiting for 'build/initialize' response
+2024.08.06 09:22:25 WARN  Retrying connection to the build server scala-cli
+2024.08.06 09:22:25 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.08.06 09:22:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.06 09:22:28 INFO  BSP server: Starting compilation server
+2024.08.06 09:22:38 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 06, 2024 9:22:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 173
+2024.08.06 09:22:38 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:22:53 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 06, 2024 9:22:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 181
+2024.08.06 09:22:53 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:22:55 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:22:58 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:22:58 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:23:03 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.08.06 09:23:03 INFO  BSP server: For more details, please see 'D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\stacktraces\1722916383-7165175417963626961.log'
+2024.08.06 09:23:03 INFO  BSP server: Running
+2024.08.06 09:23:03 INFO  BSP server:   C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.08.06 09:23:03 INFO  BSP server: might give more details.
+2024.08.06 09:23:25 ERROR Timeout waiting for 'build/initialize' response
+2024.08.06 09:23:25 WARN  Retrying connection to the build server scala-cli
+2024.08.06 09:23:25 INFO  Running BSP server List(C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-options-v2.json, --json-launcher-options, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-launcher-options.json, --envs-file, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\ide-envs.json, D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical)
+2024.08.06 09:23:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.metals\bsp.trace.json or C:\Users\Asus\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.06 09:23:27 INFO  BSP server: Starting compilation server
+2024.08.06 09:23:36 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 06, 2024 9:23:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 215
+2024.08.06 09:23:36 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:23:43 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 06, 2024 9:23:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 223
+2024.08.06 09:23:43 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:02 INFO  BSP server: Error: bloop.rifle.FailedToStartServerExitCodeException: Server failed with exit code 1
+2024.08.06 09:24:02 INFO  BSP server: For more details, please see 'D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\.scala-build\stacktraces\1722916442-16445588494863489745.log'
+2024.08.06 09:24:02 INFO  BSP server: Running
+2024.08.06 09:24:02 INFO  BSP server:   C:\Users\Asus\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe --power bloop output
+2024.08.06 09:24:02 INFO  BSP server: might give more details.
+2024.08.06 09:24:25 ERROR Timeout waiting for 'build/initialize' response
+2024.08.06 09:24:25 ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:745)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:619)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.08.06 09:24:31 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:32 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:35 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:36 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:24:36 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:37 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:38 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:38 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:24:38 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 06, 2024 9:24:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 244
+2024.08.06 09:24:40 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:40 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:40 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:40 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:42 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:42 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:24:42 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:42 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:44 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:49 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:50 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:24:50 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:25:00 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:03 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:04 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:04 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:25:05 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:05 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:05 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:05 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:06 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:06 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:25:07 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:07 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:07 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:07 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:07 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:07 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:09 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:09 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:10 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:25:10 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:10 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:10 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:12 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:15 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Aug 06, 2024 9:25:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 295
+2024.08.06 09:25:18 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:18 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:19 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:25:19 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:19 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:19 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:21 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:22 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:22 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:25:22 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:22 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:23 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:23 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:25:24 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:26 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:26 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:28 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:28 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:29 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:30 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:30 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:25:33 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:34 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:34 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:25:35 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:35 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:37 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:37 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:38 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:39 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:25:39 WARN  no build target for: D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala
+2024.08.06 09:29:39 INFO  no build target found for D:\Colombo Uni\2 yr 1 sem\2204 - FP\Practical\functional-programming-practical\Practical_7\2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.06 09:32:03 INFO  Shutting down server
+2024.08.06 09:32:03 INFO  shutting down Metals
+2024.08.06 09:32:03 INFO  Exiting server
